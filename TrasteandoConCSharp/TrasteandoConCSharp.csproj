@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>PrimerosPasosCSharp_2.primeraFase.Class1</StartupObject>
+    <StartupObject>TrasteandoConCSharp.Fase3.Class2</StartupObject>
   </PropertyGroup>
 
 </Project>
